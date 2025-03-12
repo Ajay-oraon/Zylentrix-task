@@ -2,7 +2,7 @@
 
 ## Hosted API on Render 🚀
 The backend is live and can be tested using Postman at:
-**[Your Render API URL Here]**
+**https://zylentrix-task.onrender.com**
 
 ## Setup Instructions
 1. Clone the repository
